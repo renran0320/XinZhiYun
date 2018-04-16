@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.469,D:\delphi\WWC\Test\U_TPerson.pas=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.220,D:\delphi\WWC\Test\U_TPerson.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.058,D:\delphi\WWC\Test\Unit2.pas=D:\delphi\WWC\Test\U_UserOBJ.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.753,D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.dfm=D:\delphi\WWC\Test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.049,D:\delphi\WWC\Test\U_Company.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.926,D:\delphi\WWC\Test\OBJ\U_TContact.pas=D:\delphi\WWC\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.850,D:\delphi\WWC\Test\U_Main.pas=D:\delphi\WWC\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.661,D:\delphi\WWC\Test\U_Company.pas=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.508,=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.875,=D:\delphi\WWC\Test\OBJ\U_UserOBJ.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.395,=D:\delphi\WWC\Test\OBJ\U_TPerson.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.500,D:\delphi\WWC\Test\OBJ\U_TCompany.pas=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.850,D:\delphi\WWC\Test\U_Main.dfm=D:\delphi\WWC\Test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.015,=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.675,=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.661,=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.840,=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.147,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.545,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.817,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.905,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.103,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.636,D:\delphi\WWC\Test\OBJ\U_TUser.pas=D:\delphi\WWC\Test\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.235,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.183,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.548,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.513,D:\用户目录\我的文档\Embarcadero\Studio\Projects\Project1.dproj=D:\delphi\WWC\Test\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.589,=D:\delphi\WWC\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.820,D:\delphi\WWC\Test\U_TPermission.pas=D:\delphi\WWC\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.660,D:\delphi\WWC\Test\U_TPermission.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.402,=D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.753,D:\用户目录\我的文档\Embarcadero\Studio\Projects\Unit1.pas=D:\delphi\WWC\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.203,=D:\delphi\WWC\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.002,=D:\delphi\WWC\Test\OBJ\U_TPermission.pas</Transaction>
+  </Transactions>
+</BorlandProject>
